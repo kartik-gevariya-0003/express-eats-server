@@ -1,0 +1,30 @@
+{
+  "name": "group8-express-eats-server",
+  "version": "1.0.0",
+  "description": "Express Eats Backend REST APIs Server",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kartik-gevariya-0003/group8-express-eats-server.git"
+  },
+  "author": "Kartik Gevariya",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "express-validator": "^6.11.1",
+    "jsonwebtoken": "^8.5.1",
+    "multer": "^1.4.2",
+    "mysql2": "^2.2.5",
+    "sequelize": "^6.6.5"
+  },
+  "bugs": {
+    "url": "https://github.com/kartik-gevariya-0003/group8-express-eats-server/issues"
+  },
+  "homepage": "https://github.com/kartik-gevariya-0003/group8-express-eats-server#readme"
+}
